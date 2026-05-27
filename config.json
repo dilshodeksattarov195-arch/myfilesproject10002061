@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepecrypt",
+        "uuid": 17260875,
+        "checksum": "e3kj1"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
